@@ -1,0 +1,10 @@
+C:\Programas\mex10\ChangeAddressBTCHack\bin\Debug\ChangeAddressBTCHack.exe
+C:\Programas\mex10\ChangeAddressBTCHack\bin\Debug\ChangeAddressBTCHack.pdb
+C:\Programas\mex10\ChangeAddressBTCHack\bin\Debug\itextsharp.dll
+C:\Programas\mex10\ChangeAddressBTCHack\bin\Debug\itextsharp.xml
+C:\Programas\mex10\ChangeAddressBTCHack\obj\Debug\ChangeAddressBTCHack.csprojResolveAssemblyReference.cache
+C:\Programas\mex10\ChangeAddressBTCHack\obj\Debug\ChangeAddressBTCHack.Form1.resources
+C:\Programas\mex10\ChangeAddressBTCHack\obj\Debug\ChangeAddressBTCHack.Properties.Resources.resources
+C:\Programas\mex10\ChangeAddressBTCHack\obj\Debug\ChangeAddressBTCHack.csproj.GenerateResource.Cache
+C:\Programas\mex10\ChangeAddressBTCHack\obj\Debug\ChangeAddressBTCHack.exe
+C:\Programas\mex10\ChangeAddressBTCHack\obj\Debug\ChangeAddressBTCHack.pdb
